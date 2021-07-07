@@ -15,8 +15,6 @@ header {
   height: 56px;
   background-color: #f1f4fc;
   position: fixed;
-}
-.site-header {
   display: flex;
   justify-content: space-between;
   width: 100%;
