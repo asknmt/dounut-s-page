@@ -91,6 +91,15 @@
   .site {
     margin-top: 24px;
   }
+ .site-concept {
+    font-size: 0.9rem;
+    margin-top: 32px;
+  }  
+  .concept {
+    border-bottom: solid 1px #dae4ff;
+    padding-bottom: 1px;
+  }  
+
   /*作品詳細*/
   .details {
     padding-top: 56px;
